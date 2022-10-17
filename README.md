@@ -8,4 +8,4 @@
 
 ## Reference
 
-    [Blog Article to use i18n](https://blog.shahednasser.com/how-to-internationalize-a-react-app)
+[Blog Article to use i18n](https://blog.shahednasser.com/how-to-internationalize-a-react-app)
